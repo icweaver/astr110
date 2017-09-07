@@ -6,4 +6,4 @@
 
 Happy Coding!
 
-![Alt text](./snapshot.png?raw=true "Snapshot")
+![](./snapshot.png)
